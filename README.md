@@ -13,8 +13,12 @@ Then, a new table was created to find emp_no in the new table by using the DISTI
 
 The retirement_titles table shows eligibility for retirement, along with how long these individuals have worked in their positions. 
 
+![titles_retiring_frequency](https://user-images.githubusercontent.com/60243906/105414446-97f03780-5bdb-11eb-948f-de336ddb6c36.PNG)
+
 The unique titles table shows the most recent title for employees of retirment age.
+
+<img width="523" alt="unique" src="https://user-images.githubusercontent.com/60243906/105414412-8c9d0c00-5bdb-11eb-9906-b6678205ddf3.png">
 
 The results from the retiring_titles table show that the a majority of the employees of retirment age (57,668/90,398 = 64%) have senior titles.
 
-
+![titles_retiring](https://user-images.githubusercontent.com/60243906/105414449-97f03780-5bdb-11eb-9581-e7bfa4f756f8.PNG)

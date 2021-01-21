@@ -30,10 +30,6 @@ Seeing the 63 % of the workforce is either retirment or mentorship eligible ther
 
 ## Analysis
 
-All of these current retire-eligible employees have held different positions at Pewlett Hackard. According to the table below, nearly 14,000 and roughly 13,000 had senior engineer and engineer positions, respectively. Following this group, almost 13,000 and 12,000 had senior staff and staff positions, respectively. It was interesting to see that there were only a handful of manager positions. This could be a good opportunity for HR to investigate why there were so few managers.
-
-<img width="198" alt="Titles_Retiring" src="https://user-images.githubusercontent.com/60243906/105415369-b73b9480-5bdc-11eb-8cf9-1d0cd2c52ef4.png">
-
 Also, the image below is the ERD schema that was used to build queries for this challenge.
 
 ![EmployeeDB_revised](https://user-images.githubusercontent.com/60243906/105415433-cae6fb00-5bdc-11eb-82f3-f3237dded9e4.png)

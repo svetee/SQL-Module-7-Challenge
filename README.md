@@ -23,6 +23,18 @@ The results from the retiring_titles table show that the a majority of the emplo
 
 ![titles_retiring](https://user-images.githubusercontent.com/60243906/105414449-97f03780-5bdb-11eb-9581-e7bfa4f756f8.PNG)
 
-## Analysis
 
 ![mentors](https://user-images.githubusercontent.com/60243906/105414444-96bf0a80-5bdb-11eb-92b9-d3d0ed9eeebc.PNG)
+
+Seeing the 63 % of the workforce is either retirment or mentorship eligible there will most likely be many positions to fill over the next 5-10 years. There may not exactly be enough people in the workforce to take care of the tasks or even come close to the amount of experience to fill these roles so quickly but what companies can do is try to best learn about what these employees did to be so successful/ having such long lasting careers to continue the tradition for future employees. Most likely the future generation is more computer savy/ efficent due to technologies and can catch on quickly helping companies continue to trend in the right direction by keeping revenues up.
+
+## Analysis
+
+All of these current retire-eligible employees have held different positions at Pewlett Hackard. According to the table below, nearly 14,000 and roughly 13,000 had senior engineer and engineer positions, respectively. Following this group, almost 13,000 and 12,000 had senior staff and staff positions, respectively. It was interesting to see that there were only a handful of manager positions. This could be a good opportunity for HR to investigate why there were so few managers.
+
+<img width="198" alt="Titles_Retiring" src="https://user-images.githubusercontent.com/60243906/105415369-b73b9480-5bdc-11eb-8cf9-1d0cd2c52ef4.png">
+
+Also, the image below is the ERD schema that was used to build queries for this challenge.
+
+![EmployeeDB_revised](https://user-images.githubusercontent.com/60243906/105415433-cae6fb00-5bdc-11eb-82f3-f3237dded9e4.png)
+

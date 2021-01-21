@@ -22,3 +22,7 @@ The unique titles table shows the most recent title for employees of retirment a
 The results from the retiring_titles table show that the a majority of the employees of retirment age (57,668/90,398 = 64%) have senior titles.
 
 ![titles_retiring](https://user-images.githubusercontent.com/60243906/105414449-97f03780-5bdb-11eb-9581-e7bfa4f756f8.PNG)
+
+## Analysis
+
+![mentors](https://user-images.githubusercontent.com/60243906/105414444-96bf0a80-5bdb-11eb-92b9-d3d0ed9eeebc.PNG)
